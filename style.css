@@ -1,0 +1,31 @@
+#myh1 {
+    color: rgb(46, 46, 216);
+}
+
+.item{
+    color:green
+}
+
+#lion{
+    height: 400px;
+}
+
+#superbutton{
+    background-color: brown;
+    color: rgb(43, 226, 58);
+    margin: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 8px;
+}
+
+#superbutton:hover{
+    color: aqua;
+    background-color: rgb(185, 165, 37);
+} 
+
+body{
+    min-height: 100dvh;
+}
